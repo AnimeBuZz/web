@@ -1,0 +1,77 @@
+{
+  "Item_1": {
+    "url": "https://animehindidubbed.in",
+    "enabled": true,
+    "display_name": "AnimeHindi"
+  },
+  "Item_2": {
+    "url": "https://anime.nexus/",
+    "enabled": true,
+    "display_name": "AnimeNexus"
+  },
+  "Item_3": {
+    "url": "https://www.ramenflix.com/home",
+    "enabled": true,
+    "display_name": "RemenFlix"
+  },
+  "Item_4": {
+    "url": "https://animixstream.com",
+    "enabled": true,
+    "display_name": "XStream"
+  },
+  "Item_5": {
+    "url": "https://watchanimeworld.in",
+    "enabled": true,
+    "display_name": "AnimeWorld"
+  },
+  "Item_6": {
+    "url": "https://animeyy.com/",
+    "enabled": true,
+    "display_name": "AnimeYY"
+  },
+  "Item_7": {
+    "url": "https://www.miruro.to/",
+    "enabled": true,
+    "display_name": "Miruro"
+  },
+  "Item_8": {
+    "url": "https://9anime.org.lv",
+    "enabled": true,
+    "display_name": "9anime"
+  },
+  "Item_9": {
+    "url": "https://animesuge.bz",
+    "enabled": true,
+    "display_name": "AnimeSuge"
+  },
+  "Item_10": {
+    "url": "https://animedao.watch/home",
+    "enabled": true,
+    "display_name": "AnimeDao"
+  },
+  "Item_11": {
+    "url": "https://animedub.co/home",
+    "enabled": true,
+    "display_name": "AnimeDub"
+  },
+  "Item_12": {
+    "url": "https://animesalt.top",
+    "enabled": true,
+    "display_name": "AnimeSalt"
+  },
+  "Item_13": {
+    "url": "https://anikoto.tv/home",
+    "enabled": true,
+    "display_name": "AniKoto"
+  },
+  "Item_14": {
+    "url": "https://kissanime.cfd",
+    "enabled": true,
+    "display_name": "KissAnime"
+  },
+  "Item_15": {
+    "url": "https://famelack.com",
+    "enabled": true,
+    "display_name": "TV Garden"
+  }
+}
